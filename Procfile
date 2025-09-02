@@ -1,1 +1,1 @@
-web: php bot.php
+web: node index.js
